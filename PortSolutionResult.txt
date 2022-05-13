@@ -1,0 +1,99 @@
+==========
+References
+==========
+<global namespace>
+System
+System.Web
+ContosoUniversity
+System.Web.Optimization
+System.Web.Mvc
+System.Collections
+System.Web.Routing
+System.Data
+System.Data.Entity
+ContosoUniversity.Controllers
+ContosoUniversity.DAL
+System.Collections.Generic
+System.Linq
+ContosoUniversity.Models
+System.Threading
+System.Data.Entity.Infrastructure
+ContosoUniversity.ViewModels
+PagedList
+System.Data.Entity.SqlServer
+System.Data.Entity.ModelConfiguration
+System.Data.Entity.ModelConfiguration.Configuration
+System.Data.Entity.ModelConfiguration.Conventions
+ContosoUniversity.Logging
+System.Diagnostics
+System.Data.Common
+System.Data.Entity.Infrastructure.Interception
+System.Data.SqlClient
+System.Reflection
+System.Text
+ContosoUniversity.Migrations
+System.Data.Entity.Migrations.Builders
+System.Data.Entity.Migrations
+System.CodeDom
+System.CodeDom.Compiler
+System.Resources
+System.ComponentModel
+System.ComponentModel.DataAnnotations
+System.ComponentModel.DataAnnotations.Schema
+System.Runtime
+System.Net
+System.Threading.Tasks
+System.Runtime.CompilerServices
+System.Runtime.InteropServices
+project.all
+
+===============
+DownloadedFiles
+===============
+project.all.json
+system.data.sqlclient.json
+system.web.json
+system.data.entity.json
+system.web.mvc.json
+
+==============
+ProjectResults
+==============
+----------------------
+Showing results for: D:\OneDrive - LTI\LTI_New(OfficeLaptop)\.NetCorePOC\MigrationFromFrameworktoCore\FrameworkVersions_v1\Framework4.7.2\ContosoUniversity-Framework_4.7.2\ContosoUniversity\ContosoUniversity.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net6.0
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+Microsoft.EntityFrameworkCore,5.0.12
+Microsoft.Data.SqlClient,*
+
+----------------------
+Showing results for: D:\OneDrive - LTI\LTI_New(OfficeLaptop)\.NetCorePOC\MigrationFromFrameworktoCore\FrameworkVersions_v1\Framework4.7.2\ContosoUniversity-Framework_4.7.2\ContosoUniversity\ContosoUniversity.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net6.0
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+Microsoft.EntityFrameworkCore,5.0.12
+Microsoft.Data.SqlClient,*
+
+
+===========
+BuildErrors
+===========
+
+
